@@ -23,7 +23,7 @@ export default function Techstack() {
                     <li className="text-xl my-2">I use the <span className="bg-primary text-white px-1">PowerShell</span> Terminal.</li>
                     <li className="text-xl my-2">
                         All terminals use{' '}
-                        <a href="https://github.com/tonsky/FiraCode" className="bg-primary text-white px-1" target="_blank" rel="noopener noreferrer">
+                        <a href="" className="bg-primary text-white px-1" target="_blank" rel="noopener noreferrer">
                             Fira Code
                         </a>{' '}
                         as the font because ligatures are awesome!
@@ -61,7 +61,7 @@ export default function Techstack() {
                             git
                         </a>{' '}
                         and{' '}
-                        <a href="https://github.com/" className="bg-primary text-white px-1" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/Abubakar6262" className="bg-primary text-white px-1" target="_blank" rel="noopener noreferrer">
                             GitHub
                         </a>{' '}
                         for version control.

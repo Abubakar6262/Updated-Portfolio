@@ -51,7 +51,7 @@ function About() {
                   <a href="mailto:abubkarmukhtar44@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:scale-110 cursor-pointer transition-all duration-500 delay-200">
                     <AiFillMail />
                   </a>
-                  <a href="https://www.linkedin.com/in/mernstack-developers/" target="_blank" rel="noopener noreferrer" className="hover:scale-110 cursor-pointer transition-all duration-500 delay-200">
+                  <a href="https://www.linkedin.com/in/abubakarcodex/" target="_blank" rel="noopener noreferrer" className="hover:scale-110 cursor-pointer transition-all duration-500 delay-200">
                     <AiFillLinkedin />
                   </a>
                 </div>
@@ -93,9 +93,3 @@ function About() {
 }
 
 export default About
-
-
-
-// https://api.github.com/users/UsmanMERN/repos
-
-// get repest to get all github data

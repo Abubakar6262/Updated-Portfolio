@@ -12,7 +12,6 @@ import Canvas from '@/components/canvas';
 import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
-  // metadataBase: new URL("https://usmandev.vercel.app"),
   metadataBase: new URL("https://abubakardev.vercel.app"),
   title: {
     default: "Muhammad Abubakkar | Software Engineer | MERN Stack Developer",
