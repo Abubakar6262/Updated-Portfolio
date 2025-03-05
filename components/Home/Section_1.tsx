@@ -28,7 +28,7 @@ export default function Section_1({ contributions }: { contributions: number }) 
           <span className="download-button_lg">
             <span className="download-button_sl"></span>
             <span className="download-button_text">
-              <a href="https://drive.google.com/uc?export=download&id=1t_QPbhk23iyqUbQH71LSSXbB-4kWgRAy" download="Muhammad_Abu_Bakkar.pdf">View My CV</a>
+              <a href="https://drive.google.com/uc?export=download&id=1FanbOTpcU-e6GGyBXxnnWHeoYSIoy6nS" download="Muhammad_Abu_Bakkar.pdf">View My CV</a>
             </span>
           </span>
         </button>
